@@ -1,7 +1,8 @@
+
 package wizard_management.people;
 
-
 import wizard_management.cleaning.Broomstick;
+
 
 public class Wizard {
     String name;
@@ -23,5 +24,4 @@ public class Wizard {
     public String fly(){
         return this.broomstick.fly();
     }
-
 }

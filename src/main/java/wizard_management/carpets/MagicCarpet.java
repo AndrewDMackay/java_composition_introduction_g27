@@ -1,3 +1,4 @@
+
 package wizard_management.carpets;
 
 
@@ -10,5 +11,4 @@ public class MagicCarpet extends Carpet {
     public String fly(){
         return "Hovering up, straightening out, flying off!";
     }
-
 }

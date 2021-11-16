@@ -1,3 +1,4 @@
+
 import static org.junit.Assert.*;
 import org.junit.*;
 import wizard_management.carpets.MagicCarpet;
@@ -21,5 +22,4 @@ public class MagicCarpetTest {
     public void canFly(){
         assertEquals(magicCarpet.fly(),"Hovering up, straightening out, flying off!");
     }
-
 }

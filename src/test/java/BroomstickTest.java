@@ -1,3 +1,4 @@
+
 import static org.junit.Assert.*;
 import org.junit.*;
 
@@ -27,5 +28,4 @@ public class BroomstickTest {
     public void canFly(){
         assertEquals(broom.fly(),"mounting broom, running, skipping, flying!");
     }
-
 }

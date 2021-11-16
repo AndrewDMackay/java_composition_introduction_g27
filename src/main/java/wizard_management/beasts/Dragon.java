@@ -1,3 +1,4 @@
+
 package wizard_management.beasts;
 
 
@@ -10,5 +11,4 @@ public class Dragon extends MythicalBeast {
     public String fly(){
         return "Standing up tall, beating wings, lift off!";
     }
-
 }

@@ -1,3 +1,4 @@
+
 import static org.junit.Assert.*;
 import org.junit.*;
 import wizard_management.cleaning.Mop;
@@ -16,5 +17,4 @@ public class MopTest {
     public void hasBrand(){
         assertEquals("Hygenic", mop.getBrand());
     }
-
 }

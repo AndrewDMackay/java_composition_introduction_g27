@@ -1,3 +1,4 @@
+
 import static org.junit.Assert.*;
 import org.junit.*;
 import wizard_management.carpets.Rug;
@@ -16,5 +17,4 @@ public class RugTest {
     public void hasColour(){
         assertEquals("Yellow",rug.getColour());
     }
-
 }
